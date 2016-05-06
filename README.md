@@ -10,3 +10,9 @@ The chassis is a flate plate and has a motor mount. I superglue the motor mount 
 The picamera mount has 2 versions. A regular and small version.
 
 http://electronsfree.blogspot.com/2016/04/brickpi-robot-chasis-part-2.html
+http://electronsfree.blogspot.com/2016/05/how-not-to-design-ball-castor-wheel-for.html
+
+License
+===========
+
+Apache 2.0 - use and share as you wish
